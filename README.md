@@ -41,6 +41,12 @@ A lightweight browser-based ERD editor for [CS2102](https://nusmods.com/courses/
 5. Select the relationship and tick `Identifying (dot markers)` on the right sidebar.
 6. If a L-shaped line is not automatically created, connect the partial key of the weak entity to the relationship. The L-shaped line will then be displayed.
 
+## Sample ERD
+
+Here is a sample Entity-Relationship Diagram (ERD) generated with the web app, demonstrating various entity, relationship, and attribute notations:
+
+![Sample ERD](assets/images/sampleErd.png)
+
 ## Run
 
 ```powershell
