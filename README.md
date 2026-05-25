@@ -1,6 +1,6 @@
-# ERD Diagram Drawer
+# ERD Diagram Maker
 
-![ERD Diagram Drawer](assets/images/Ui.png)
+![ERD Diagram Maker](assets/images/Ui.png)
 
 A lightweight browser-based ERD editor for [CS2102](https://nusmods.com/courses/cs2102)-style entity-relationship diagrams. It uses SVG for crisp shapes and local browser storage for persistence.
 
